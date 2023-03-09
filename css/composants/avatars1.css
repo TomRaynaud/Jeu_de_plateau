@@ -1,0 +1,27 @@
+
+.avatar img{
+    width: 200px;
+    height: 100px;
+    border-radius: 50%;
+    display: flex;
+    justify-content:flex-start;
+    margin: 0px 20px
+}
+
+.avatar {
+    display: flex;
+    text-align: center;
+}
+
+.avatar h2{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.avatar img:hover{
+    transition: 0.5s;
+    height: 150px;
+    width: 150px;
+}

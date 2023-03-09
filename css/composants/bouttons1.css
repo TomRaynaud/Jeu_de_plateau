@@ -1,0 +1,40 @@
+.btn{ 
+    padding: 10px 20px;
+    text-transform: uppercase;
+}
+
+.btn-blue {
+    background-color: rgb(34, 111, 123);
+    color: white;
+    padding: 5px 10px;
+    text-transform: uppercase;
+    border-radius: 10px;
+}
+
+.btn-blue:hover {
+    background-color: rgb(14, 95, 111);
+    color: white;
+}
+
+.btn-blue2 {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(34, 111, 123);
+    padding: 4px 9px;
+    border-radius: 10px;
+    color: rgb(34, 111, 123);
+}
+
+.btn-blue2:hover {
+  background-color: rgb(34, 111, 123);
+  color: white;
+}
+
+.btn1{
+    padding: 10px;
+}
+
+.btn1{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(34, 35, 35);
+}
